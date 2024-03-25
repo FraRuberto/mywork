@@ -49,7 +49,7 @@ Click [![here](https://img.shields.io/badge/here-green?style=for-the-badge)](htt
 
 ## Contents of the notebook
 
-### Overview of the Data Set and Variables
+### Overview of the Dataset and Variables
 
 This section serves as the first part of the notebook and provides an overview of the Palmer Penguins dataset and its variables. The dataset contains information about penguins' species, island of origin, physical measurements, and sex. The Palmer Penguins dataset includes 344 entries and 7 columns. This Jupiter notebook contains a brief overview of some key variables:
 
