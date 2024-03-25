@@ -15,6 +15,7 @@
   3.3 [Correlation Analysis](#correlation-analysis)
 4. [Technology/Library used](#technologylibrary-used)
 5. [Litearature & Documentation](#litearature--documentation)
+6. [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -32,15 +33,14 @@ The Palmer Penguins dataset provides valuable insights into the characteristics 
 
 ### Main variables:
 
-Species: Categorical variable indicating the species of the penguin (Adélie, Chinstrap, or Gentoo).
-Island: Categorical variable indicating the island in the Palmer Archipelago where the penguin was observed.
-Bill Length (mm): Numerical variable representing the length of the penguin's bill in millimeters.
-Bill Depth (mm): Numerical variable representing the depth of the penguin's bill in millimeters.
-Flipper Length (mm): Numerical variable representing the length of the penguin's flipper in millimeters.
-Body Mass (g): Numerical variable representing the body mass of the penguin in grams.
-Sex: Categorical variable indicating the sex of the penguin (male or female).
+- Species: Categorical variable indicating the species of the penguin (Adélie, Chinstrap, or Gentoo).
+- Island: Categorical variable indicating the island in the Palmer Archipelago where the penguin was observed.
+- Bill Length (mm): Numerical variable representing the length of the penguin's bill in millimeters.
+- Bill Depth (mm): Numerical variable representing the depth of the penguin's bill in millimeters.
+- Flipper Length (mm): Numerical variable representing the length of the penguin's flipper in millimeters.
+- Body Mass (g): Numerical variable representing the body mass of the penguin in grams.
+- Sex: Categorical variable indicating the sex of the penguin (male or female).
 
 ![Palmer Penguins](https://previews.123rf.com/images/aomeditor/aomeditor1903/aomeditor190300021/122254680-illustrator-of-body-parts-of-penguin.jpg)
 
-Click [![here](https://img.shields.io/badge/here-green?style=for-the-badge)](https://www.kaggle.com/code/pratik1120/penguin-dataset-eda-classification-and-clustering)
-for more information about the penguin dataset. 
+Click [![here](https://img.shields.io/badge/here-green?style=for-the-badge)](https://www.kaggle.com/code/pratik1120/penguin-dataset-eda-classification-and-clustering) for more information about the penguin dataset. 
