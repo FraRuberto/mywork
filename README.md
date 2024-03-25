@@ -7,15 +7,15 @@
 
 1. [Introduction](#introduction)
 2. [Purpose](#purpose)
-4. [Dataset background](#dataset-background)
-  4.1 [Main varibales](#main-variables)
-3. [Contents of the notebook](#contents-of-the-notebook)
-  3.1 [Overview of the Dataset](#overview-of-the-dataset)
-  3.2 [Types of Variables](#types-of-variables)
-  3.3 [Correlation Analysis](#correlation-analysis)
-4. [Technology/Library used](#technologylibrary-used)
-5. [Litearature & Documentation](#litearature--documentation)
-6. [Conclusion](#conclusion)
+3. [Dataset background](#dataset-background)
+ - [3.1 Main varibales](#31-main-variables)
+4. [Contents of the notebook](#contents-of-the-notebook)
+ - [4.1 Overview of the Dataset](#41-overview-of-the-dataset)
+ - [4.2 Types of Variables](#42-types-of-variables)
+ - [4.3 Correlation Analysis](#43-correlation-analysis)
+5. [Technology/Library used](#technologylibrary-used)
+6. [Litearature & Documentation](#litearature--documentation)
+7. [Conclusion](#conclusion)
 
 ## Introduction
 
