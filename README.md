@@ -20,7 +20,7 @@
 
 Welcome to the world of data analysis with the Palmer Penguins dataset! This repository contains a Jupyter notebook where we will delve into the intricacies of data analysis and visualization using real-world data. The aim of this notebook is to give valuable insights into the principles of data analytics, exploring and interpreting the world famous Palmer Penguin datasets.
 
-Click [![here](https://img.shields.io/badge/More-Information-blue?style=for-the-badge)](https://gist.githubusercontent.com/slopp/ce3b90b9168f2f921784de84fa445651/raw/4ecf3041f0ed4913e7c230758733948bc561f434/penguins.csv) for the complete Palmer Penguins dataset. 
+Click [![here](https://img.shields.io/badge/here-red?style=for-the-badge)](https://gist.githubusercontent.com/slopp/ce3b90b9168f2f921784de84fa445651/raw/4ecf3041f0ed4913e7c230758733948bc561f434/penguins.csv) for the complete Palmer Penguins dataset. 
 
 ## Purpose 
 
@@ -42,5 +42,5 @@ Sex: Categorical variable indicating the sex of the penguin (male or female).
 
 ![Palmer Penguins](https://previews.123rf.com/images/aomeditor/aomeditor1903/aomeditor190300021/122254680-illustrator-of-body-parts-of-penguin.jpg)
 
-Click [![here](https://img.shields.io/badge/here-red?style=for-the-badge)](https://www.kaggle.com/code/pratik1120/penguin-dataset-eda-classification-and-clustering)
+Click [![here](https://img.shields.io/badge/here-green?style=for-the-badge)](https://www.kaggle.com/code/pratik1120/penguin-dataset-eda-classification-and-clustering)
 for more information about the penguin dataset. 
