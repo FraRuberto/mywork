@@ -94,3 +94,57 @@ The following exploratory analyses are conducted in this notebook:
 - Body mass distribution of penguins
 
 For a more detailed analysis, refer to the corresponding sections in the notebook.
+
+
+### Types of Variables
+
+In this second section, explored and suggested the types of variables that should be used to model the variables in the Palmer Penguin dataset in Python. Along with each variable, explained the rationale behind the choice and cite the material I used in my research. I delved into practical examples using some of the variables discussed previously. These examples aim to provide a hands-on understanding of how these variables can be effectively utilized in modeling the Palmer Penguin dataset in Python. By showcasing real-world applications, I hope to demonstrate the significance of each variable and its role in data analysis.
+
+In this section, we will explore the variables in the Palmer Penguin dataset and suggest appropriate types for manipulation in Python.
+
+| Variable           | Type          | Recommended Type for Manipulation |
+|--------------------|---------------|------------------------------------|
+| Species            | Categorical   | String                             |
+| Island of Origin   | Categorical   | String                             |
+| Sex of Penguins    | Categorical   | String                             |
+| Body Mass          | Continuous    | Float                              |
+
+#### Species
+
+**Type:** Categorical  
+**Recommended for Manipulation:** String  
+**Rationale:** The species variable consists of discrete categories and can be represented as strings for easy manipulation.
+
+#### Island of Origin
+
+**Type:** Categorical  
+**Recommended for Manipulation:** String  
+**Rationale:** Similarly, the island of origin variable is categorical and can be represented as strings.
+
+#### Sex of Penguins
+
+**Type:** Categorical  
+**Recommended for Manipulation:** String  
+**Rationale:** The sex of penguins variable is categorical and can be represented as strings.
+
+#### Body Mass of Penguins
+
+**Type:** Continuous  
+**Recommended for Manipulation:** Float  
+**Rationale:** Body mass is a continuous numerical variable and should be represented as float for mathematical operations and analysis.
+
+This systematic overview provides clarity on the types of variables present in the dataset and suggests appropriate types for manipulation in Python.
+
+It's noteworthy that *integer type is not suggested for manipulation in this dataset due to the absence of variables that strictly require integer representation*. For instance, representing a categorical variable as an integer may introduce ambiguity and hinder interpretation. For further details on why integer types are not suggested, refer to the notebook. 
+
+
+### Correlation Analysis of Two Variables in the Dataset
+
+In exploring the physiological traits of penguins, understanding the relationships between various physical attributes becomes crucial. Among these attributes, body mass and flipper length are of particular interest due to their potential implications in penguin biology. In this analysis, we aim to investigate the correlation between body mass and flipper length in penguins using the Palmer Penguins dataset.
+
+I chose 'body_mass_g' (body mass of penguins) and 'flipper_length_mm' (flipper length of penguins) for the following reasons:
+
+- These variables represent physical characteristics of penguins that could potentially be related.
+- Body mass and flipper length are both important measurements in understanding the biology and physiology of penguins.
+- Exploring the relationship between body mass and flipper length can provide insights into the physical adaptations of penguins.
+- I calculated the correlation coefficient, explained the result, and plotted a scatter diagram.
