@@ -12,7 +12,7 @@
 4. [Contents of the Notebook](#contents-of-the-notebook)
     - 4.1 [Overview of the Dataset and Variables](#overview-of-the-dataset-and-variables)
     - 4.2 [Types of Variables](#types-of-variables)
-    - 4.3 [Correlation Analysis](#correlation-analysis)
+    - 4.3 [Correlation Analysis of Two Variables in the Dataset](#correlation-analysis-of-two-variables-in-the-dataset)
 5. [Technology/Library Used](#technologylibrary-used)
 6. [Literature & Documentation](#literature--documentation)
 7. [Conclusion](#conclusion)
