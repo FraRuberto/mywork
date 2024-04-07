@@ -148,3 +148,56 @@ I chose 'body_mass_g' (body mass of penguins) and 'flipper_length_mm' (flipper l
 - Body mass and flipper length are both important measurements in understanding the biology and physiology of penguins.
 - Exploring the relationship between body mass and flipper length can provide insights into the physical adaptations of penguins.
 - I calculated the correlation coefficient, explained the result, and plotted a scatter diagram.
+
+## Technology/Library used
+
+- [Python](https://www.python.org/): Programming language used for data analysis and scripting.
+- [Jupyter Notebook](https://jupyter.org/): Interactive development environment used for data exploration and analysis.
+- [Pandas](https://pandas.pydata.org/): Python library used for data manipulation and analysis.
+- [Matplotlib](https://matplotlib.org/): Python library used for data visualization.
+- [NumPy](https://numpy.org/): Python library used for numerical computing.
+
+
+## Litearature & Documentation
+
+- Alabuda, A. (2022). Classification and EDA - Palmer Penguins. Kaggle. [Link here](https://www.kaggle.com/code/alabuda/)
+- Analytics Vidhya. (2022, April). Data Exploration and Visualization using Palmer Penguins Dataset.  [Link here](https://www.analyticsvidhya.com/blog/2022/04/data-exploration-and-visualisation-using-palmer-penguins-dataset/)
+- Banerjee, P. (2019). Descriptive Statistics with Python Project. Gist. [Link here](https://gist.github.com/pb111/512c840affb32593d28573fbb764045b)
+- Canales Luna, J. (2022, February). Python Details on Correlation Tutorial. DataCamp. [Link here](https://www.datacamp.com/tutorial/tutorial-datails-on-correlation)
+- Erondu, F. (2022, November 7). Visualizing the PalmerPenguins Dataset. Medium. [Link here](https://medium.com/@Fortune_/visualizing-the-palmerpenguins-dataset-d3d70bb619b4)
+- Field, A. (2018). Discovering Statistics Using IBM SPSS Statistics (Fifth Edition). Sage Publications Ltd.
+- Franzese, M., & Iuliano, A. (2019). Descriptive Statistics. Elsevier. [Link here](https://iris.unibas.it/retrieve/d07de51c-aa20-4def-8d07-70a96ec694e6/2019_Descriptive%20Statistics_Elsevier.pdf)
+- Goldberg, D. (1991). What Every Computer Scientist Should Know About Floating-Point Arithmetic. ACM Computing Surveys, 23(1), 5-48.
+- Horst, A. (2020, November 30). Introduction to palmerpenguins. GitHub [Link here](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#:~:text=The%20palmerpenguins%20data%20contains%20size,Linux%20is%20named%20after%20penguins!)
+- JavaTpoint. (N/A). Categorical Variable in Python. [Link here](https://www.javatpoint.comcategorical-variable-in-python#:~:text=In%20Python%2C%20a%20categorical%20variable,as%20nominal%20variables%20or%20factors.)
+- Matplotlib Development Team. (n.d.). Histograms. Matplotlib  [Link here](https://matplotlib.org/stable/gallery/statistics/hist.html)
+- Matplotlib Development Team. (n.d.). matplotlib.pyplot.hist. Matplotlib. [Link here](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html)
+- Matplotlib. (Year unavailable). matplotlib.pyplot.bar Documentation.[Link here](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html)
+- Matplotlib. (Year unavailable). Matplotlib.pyplot.scatter Documentation. [Link here](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html)
+- McKinney, W. (2017). Python for Data Analysis. O'Reilly Media.
+- Mazzaroli, C.M. (Year unavailable). Exploratory Data Analysis to Predictive analysis: Palmer Penguins. [Link here](https://deepnote.com/app/mazzaroli/Exploratory-Data-Analysis-to-Predictive-analysis-Palmer-Penguins-e6bd8932-9ca1-4363-b78a-79f4f4dc818f)
+- NumPy Contributors. (n.d.). Array manipulation routines — NumPy v1.21 Manual. [Link here](https://numpy.org/doc/stable/reference/routines.array-manipulation.html)
+- NumPy Contributors. (n.d.). [Link here](https://numpy.org/doc/stable/reference/routines.array-manipulation.html)
+- Pandey, P. (2020). Five Ways to Use value_counts. Kaggle. [Link here](https://www.kaggle.com/code/parulpandey/five-ways-to-use-value-counts)
+- Real Python. (n.d.). Python Variables: Defining, Assigning, and Using Variables in Python. [Link here](https://realpython.com/python-variables/)
+- Schober, P., Boer, C., & Schwarte, L. A. (Year unavailable). Correlation Coefficients: Appropriate Use and Interpretation.
+- Simplilearn. (n.d.). Python Float: Examples and Basic Guide. [Link here](https://www.simplilearn.com/tutorials/python-tutorial/float-in-python#:~:text=Float%20is%20an%20important%20mathematical,values%20and%20not%20on%20characters.&text=The%20inbuilt%20function%2C%20float(),%E2%80%9D%2C%20%E2%80%9Cand%20infinity%E2%80%9D.)
+- Solomon, B. (2018, February 28). Python Plotting With Matplotlib (Guide). [Link here](https://realpython.com/python-matplotlib-guide/)
+- Statistics Canada. (n.d.). Introduction to probability - Variables. [Link here](https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch8/5214817-eng.htm)
+- Stojiljković, M. (2019, December 16). Python Statistics Fundamentals: How to Describe Your Data. Real Python.[Link here](https://realpython.com/python-matplotlib-guide/)
+- Stojiljković, M. (2019, December 23). NumPy, SciPy, and pandas: Correlation With Python. Real Python. [Link here](https://realpython.com/numpy-scipy-pandas-correlation-python/)
+- Twomey, M. (2022, July 12). Exploring Palmer Penguins. [Link here](https://rpubs.com/michelle10128/923430)
+- VanderPlas, J. (2016). Python Data Science Handbook. O'Reilly Media. [Link here](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- W3Resource. (n.d.). NumPy: Array manipulation - numpy.unique(). [Link here](https://www.w3resource.com/numpy/manipulation/unique.php)
+- Yale University Department of Statistics. (1997-98). Categorical Data. [Link here](http://www.stat.yale.edu/Courses/1997-98/101/catdat.htm)
+
+
+## Conclusion
+
+In this project, we embarked on an insightful journey into the world of penguin biology through an exploratory analysis of the Palmer Penguin dataset. Our investigation revolved around key variables such as species, island of origin, sex of penguins, body mass, and flipper length, each offering unique insights into the characteristics and behaviors of these fascinating creatures.
+
+Through data visualization techniques and correlation analysis, we investigated intriguing patterns and relationships within the dataset. Furthermore, we delved into the intricate relationship between body mass and flipper length, attempting to grasp how these physical attributes may be linked to the evolutionary adaptations of penguins. 
+
+As we wrap up our exploration of the Palmer Penguin dataset, it's clear that our analysis represents just a small contribution to the broader effort of understanding the natural world. While our findings may not be groundbreaking, they highlight the value of using data to gain insights into biological patterns. This project underscores the importance of curiosity-driven exploration and reminds us of the fascinating intricacies of life on Earth.
+
+### End 
